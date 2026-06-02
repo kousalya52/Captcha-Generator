@@ -2,6 +2,10 @@
 
 A simple and responsive **Captcha Generator** built using **HTML, CSS, and JavaScript**. This project generates a random 6-character captcha and validates the user's input to ensure correct verification.
 
+## 🚀 Live Demo
+
+https://kousalya52.github.io/Captcha-Generator/
+
 ## 🚀 Features
 
 * Random 6-character captcha generation
