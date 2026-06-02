@@ -6,6 +6,10 @@ A simple and responsive **Captcha Generator** built using **HTML, CSS, and JavaS
 
 https://kousalya52.github.io/Captcha-Generator/
 
+## 🚀 Screenshot
+
+<img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/3d64aba9-96f5-4645-a384-80fa7c10a583" />
+
 ## 🚀 Features
 
 * Random 6-character captcha generation
