@@ -23,7 +23,7 @@ A simple and responsive **Captcha Generator** built using **HTML, CSS, and JavaS
 ```text
 Captcha-Generator/
 │
-├── captcha_box.html
+├── index.html
 ├── README.md
 ```
 
@@ -50,7 +50,7 @@ git clone https://github.com/kousalya52/captcha-generator.git
 cd captcha-generator
 ```
 
-3. Open `captcha_box.html` in your browser.
+3. Open `index.html` in your browser.
 
 ## 🎯 Future Enhancements
 
