@@ -11,6 +11,9 @@
 </head>
 
 <body>
+    <video  autoplay loop muted playsinline>
+        <source src="./212745.mp4" type="video/mp4">
+    </video>
     <div class="content">
         <h2>Captcha Generator</h2>
         <div class="box">
@@ -205,6 +208,28 @@
             .box button {
                 width: 30px;
                 height: 30px;
+            }
+        }
+        video {
+            position:fixed;
+            right:0;
+            bottom: 0;
+            z-index: -1;
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: cover;
+            
+        }
+        @media (min-aspect-ratio: 16/9) {
+            video {
+                width: 100%;
+                height: auto;
+            }
+        }
+        @media (max-aspect-ratio: 16/9) {
+            video {
+                width: auto;
+                height: 100%;
             }
         }
     </style>
